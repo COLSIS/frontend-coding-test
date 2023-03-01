@@ -1,4 +1,4 @@
-# Cording Test 1
+# Coding Test 1
 
 ## Comamnd
 
@@ -13,10 +13,11 @@ $ npm install
 $ npm run dev
 ```
 
-## Cording Test
+## Coding Test
 
-- 制限時間は20分
+- 制限時間は30分
 - 不明点がある場合は、適時質問していただいて大丈夫です
+- 必要に応じて、検索なども行っていただいて問題ありません
 - 対象ブラウザバージョンは気にする必要はありません
 - 各種記述の方法（JSのES6 / ES Next / Typescript等）は自由で構いません  
 （開発環境は、JS、ES modulesでセットアップされています
@@ -55,6 +56,6 @@ https://github.com/COLSIS/coding-test-1
 
 ### 5. git操作
 
-更新した内容を `commit`し、リモートリポジトリに`push`してください。
+更新した内容を `commit`してください。
 
 - commitメッセージは `YYYYMMDD-cording-test-commit` で記述してください
